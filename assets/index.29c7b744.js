@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var e=(n,r,o)=>r in n?a(n,r,{enumerable:!0,configurable:!0,writable:!0,value:o}):n[r]=o;var t=(n,r,o)=>(e(n,typeof r!="symbol"?r+"":r,o),o);import"./style.c0ed6924.js";class s{constructor(){t(this,"btnCadastroTarefa");this.configurarElementos()}configurarElementos(){}}new s;
